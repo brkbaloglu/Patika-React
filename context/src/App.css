@@ -1,0 +1,13 @@
+.App{
+  height: 100vh;
+}
+
+.App .dark {
+  color: #fff;
+  background-color: #282c34;
+}
+              
+.App .light{
+  color: black;
+  background-color: #fff;
+}
